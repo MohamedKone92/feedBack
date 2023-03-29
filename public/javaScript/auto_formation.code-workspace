@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../xampp/htdocs/auto_formation"
+		},
+		{
+			"path": "../../../../../../OneDrive/javaScript"
+		},
+		{
+			"path": "../../../../change_colore"
+		},
+		{
+			"path": "../../../../../FORMATION GRAFIKART JS/TUTO_JS"
+		},
+		{
+			"path": "../../../GL-TAF/Taf2-Compteur"
+		},
+		{
+			"path": "../../../../../jQueryTuto/javaScript_jQuery"
+		},
+		{
+			"path": "../../../../devoir2js"
+		},
+		{
+			"path": "../../../../TAF3-System-commentaires"
+		},
+		{
+			"path": "../../../../KeyPrey-Evenement"
+		},
+		{
+			"path": "../../../class"
+		},
+		{
+			"path": "../../../../../TP4-GL[wikipedia]"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../jus"
+		},
+		{
+			"path": "../../../../../../../../wamp64/www/energie"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jus"
+	}
+}
